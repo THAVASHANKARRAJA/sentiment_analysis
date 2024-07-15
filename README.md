@@ -3,9 +3,7 @@
 
 #### app1.py is the updated one, and fulfill the requirements.
 =======
-# webapp_productrevieww
->>>>>>> f79e04b (Initial commit)
->>>>>>>
+
 >> ## Add more product to the review list:
 >>>>>1. Go the "products/products" folder and pest the product image (Keep the name of the image as "{Product name}.png}.
 >>>>>2. Go to the "preprocessor.py"
