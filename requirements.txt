@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+joblib
+threadpoolctl
+scikit-learn
+streamlit
+streamlit_option_menu
+tensorflow
+opencv-python
